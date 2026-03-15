@@ -57,9 +57,9 @@ The imagery is tiled using **QGIS XYZ tiling** to create manageable image tiles 
 Extent | Map canvas |
 Min zoom | 18 |
 Max zoom | 20 |
-DPI | 96 |
+Overlap | 64 |
 Quality | 95 |
-Tile size | 256 × 256 |
+Tile size | 1024 × 1024 |
 
 These tiles are used as inputs for the **Segment Anything Model**.
 
@@ -204,9 +204,13 @@ u16373317@tuks.co.za
 
 ---
 
-# Supervisor
+# Supervisors
 
 **Dr. Samy Katumba**  
+Department of Geography, Geoinformatics and Meteorology  
+University of Pretoria
+
+**Dr. Adedayo Adeleke**
 Department of Geography, Geoinformatics and Meteorology  
 University of Pretoria
 
